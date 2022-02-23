@@ -26,8 +26,14 @@
                 <ul class="right">
                     <li><a href="{% url 'about' %}">About</a></li>
                     <li><a href="{% url 'allMovies' %}">View Movies</a></li>
+                    {% if user.is_authenticated %}
                     <li><a href="{% url 'index' %}">View Favorites</a></li>
                     <li><a href="{% url 'favorites_create' %}">Add Favorites</a></li>
+                    <li><a href="{% url 'logout' %}">Log Out</a></li>
+                    {% else %}
+                    <li><a href="{% url 'login' %}">Log In</a></li>
+                    <li><a href="{% url 'signup' %}">Sign Up</a></li>
+                    {% endif %}
                 </ul>
             </div>
         </nav>
@@ -38,7 +44,7 @@
     </main>
     <footer class="page-footer">
         <div class="center">
-            All Rights Reserved, @copy 2022 My MCU
+            All Rights Reserved, © 2022 My MCU
         </div>
     </footer>
 </body>
