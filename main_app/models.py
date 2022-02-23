@@ -8,7 +8,14 @@ class Favorite(models.Model):
     rating = models.IntegerField()
 
     def __str__(self):
-        return self.name
+        return self.title
 
     def get_absolute_url(self):
         return reverse('detail', kwargs={'favorite_id': self.id})
+
+class Watch(models.Model):
+    date = models.DateField('Watch Date')
+    favorite = models.ForeignKey(Favorite, on_delete=models.CASCADE)
+
+    def __str__(self):
+        return f'Watched on {self.date}'
