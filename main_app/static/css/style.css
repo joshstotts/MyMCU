@@ -6,12 +6,20 @@ body {
     display: flex;
     min-height: 100vh;
     flex-direction: column;
+    background-image: url(https://firewireblog.com/wp-content/uploads/2019/05/stan-lee-30crop.jpg);
+    background-size: 100%;
 }
 main {
     flex: 1 0 auto;
 }
 nav {
     background-color: red;
+}
+h1 {
+    color: white;
+}
+.about {
+    background-color: white;
 }
 .page-footer {
     background-color: red;
