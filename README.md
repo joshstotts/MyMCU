@@ -19,13 +19,13 @@
  
  <hr />
  
- <img width="766" alt="Screen Shot 2022-02-22 at 3 19 49 PM" src="https://user-images.githubusercontent.com/94932808/155442726-3e1da3f9-47ea-4ae5-8194-1b01c3d471b2.png">
+<img width="1440" alt="Screen Shot 2022-02-23 at 8 15 52 PM" src="https://user-images.githubusercontent.com/94932808/155444580-460ee7dc-0c0b-4a44-8250-b508dd555483.png">
  
  <h2>Getting Started</h2>
  
  <hr />
  
- <p><a href="mymcu.herokuapp.com">Click here</a> to see 'My MCU'</p>
+ <p><a href="https://mymcu.herokuapp.com">Click here</a> to see 'My MCU'</p>
  
  <h2>Future Enhancements</h2>
  
