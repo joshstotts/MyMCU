@@ -1,7 +1,5 @@
 # MyMCU
 
-<hr />
-
 <p>My MCU is a site that once you create an account will be able to keep a running list of all your favorite Marvel Cinematic Universe(MCU) Movies! Once logged in, you will be able to add movies with a personal rating and description to your favorite movies page. The view movies portion is in the correct timeline/watch order.</p>
 
 <hr />
