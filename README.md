@@ -4,9 +4,9 @@
 
 <p>My MCU is a site that once you create an account will be able to keep a running list of all your favorite Marvel Cinematic Universe(MCU) Movies! Once logged in, you will be able to add movies with a personal rating and description to your favorite movies page. The view movies portion is in the correct timeline/watch order.</p>
 
-<h2>Tecnologies Used</h2>
-
 <hr />
+
+<h2>Tecnologies Used</h2>
 
 <ul>
   <li>Django</li>
@@ -18,17 +18,17 @@
   <li>Materialize</li>
 </ul>
  
- <h2>Screenshots</h2>
+<hr /> 
  
- <hr />
+<h2>Screenshots</h2>
  
 <img width="1440" alt="Screen Shot 2022-02-23 at 8 15 52 PM" src="https://user-images.githubusercontent.com/94932808/155444580-460ee7dc-0c0b-4a44-8250-b508dd555483.png">
+
+<hr />
+
+<h2>Getting Started</h2>
  
- <h2>Getting Started</h2>
- 
- <hr />
- 
- <p><a href="https://mymcu.herokuapp.com">Click here</a> to see 'My MCU'</p>
+<p><a href="https://mymcu.herokuapp.com">Click here</a> to see 'My MCU'</p>
  
  <h2>Future Enhancements</h2>
  
