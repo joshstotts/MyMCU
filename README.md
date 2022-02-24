@@ -13,7 +13,10 @@
   <li>Python</li>
   <li>CSS 3</li>
   <li>HTML 5</li>
- </ul>
+  <li>PostgreSQL</li>
+  <li>Javascript</li>
+  <li>Materialize</li>
+</ul>
  
  <h2>Screenshots</h2>
  
